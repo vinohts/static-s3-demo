@@ -1,0 +1,4 @@
+# No secrets in repo
+node_modules/
+.DS_Store
+*.log
